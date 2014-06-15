@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Tom and Allison Augspurger'
 SITENAME = 'ourtravels'
 # SITEURL = 'http://ourtravels.heroku.com'
-THEME = "/Users/tom/pelican-themes/notmyidea-cms"
+# THEME = "/Users/tom/pelican-themes/notmyidea-cms"
 
 TIMEZONE = 'Europe/Paris'
 
