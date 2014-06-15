@@ -21,7 +21,7 @@ Turning the corner to see this huge wall open up in front of you was a great exp
 <iframe src="https://www.flickr.com/photos/81581328@N02/14392548816/in/set-72157644733130690/player/" width="640" height="427" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 The water was a bit chilly at first, but pleasant after a bit.
-Apparently the 85°F we've enjoyed the past couple days is still cool for Santorini.
+Apparently the 85F we've enjoyed the past couple days is still cool for Santorini.
 But the dry heat is a nice break from the humidity of Iowa.
 One beach down, still two to go.
 
