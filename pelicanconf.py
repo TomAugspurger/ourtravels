@@ -4,7 +4,8 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Tom and Allison Augspurger'
 SITENAME = 'ourtravels'
-# SITEURL = 'http://ourtravels.heroku.com'
+SITEURL = 'http://ourtravels.herokuapp.com'
+NEWEST_FIRST_ARCHIVES = True
 # THEME = "/Users/tom/pelican-themes/notmyidea-cms"
 
 TIMEZONE = 'Europe/Paris'
@@ -19,10 +20,10 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS =  (('Pelican', 'http://getpelican.com/'),
-          ('Python.org', 'http://python.org/'),
-          ('Jinja2', 'http://jinja.pocoo.org/'),
-          ('You can modify those links in your config file', '#'),)
+# LINKS =  (('Pelican', 'http://getpelican.com/'),
+#           ('Python.org', 'http://python.org/'),
+#           ('Jinja2', 'http://jinja.pocoo.org/'),
+#           ('You can modify those links in your config file', '#'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
