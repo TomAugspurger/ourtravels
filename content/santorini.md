@@ -1,10 +1,7 @@
 Title: Santorini Day 1
-Author: Tom Augspurger, Allison Augspurger
 Date: 2014-06-12 11:00
 Slug: santorini1
-
-Santorini
-=========
+tags: greece
 
 After flying into Athens, we spent a short night in the port town of Piraeus. From there, we took the 7:30 AM ferry to the island of [Santorini](http://en.wikipedia.org/wiki/Santorini).
 

@@ -1,7 +1,7 @@
 Title: Athens
-date: 2014-06-13 11:00
-author: Tom Augspurger, Allison Augspurger
+date: 2014-06-16 11:00
 slug: athens
+tags: greece
 
 Yesterday was pretty much just a travel day.
 Santorini is far enough south that getting back

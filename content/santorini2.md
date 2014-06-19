@@ -1,10 +1,7 @@
 Title: Santorini Day 2
 date: 2014-06-13 11:00
-author: Tom Augspurger, Allison Augspurger
 slug: santorini2
-
-Santorini (Day 2)
-=================
+tags: greece
 
 After the guided tour [yesterday](http://ourtravels.herokuapp.com/santorini1.html), we were ready to do some exploring on our own.
 Well, not quite on our own.
