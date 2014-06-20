@@ -6,10 +6,10 @@ AUTHOR = 'Tom and Allison Augspurger'
 SITENAME = 'ourtravels'
 SITEURL = 'http://ourtravels.herokuapp.com'
 DEFAULT_CATEGORY = 'travel'
-SITESUBTITLE = "Allison and Tom's traveling blog"
+# SITESUBTITLE = "Allison and Tom's traveling blog"
 
 # Theme stuff
-# THEME = "notmyidea"
+THEME = "notmyidea"
 
 TIMEZONE = 'Europe/Paris'
 
