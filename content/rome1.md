@@ -41,3 +41,5 @@ A couple blocks further down was the Parthenon.
 <iframe src="https://www.flickr.com/photos/81581328@N02/14278691158/in/set-72157645257588742/player/" width="640" height="427" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 Since it looked like rain, we went back to the train station a bit early to rest for the next day: the Vatican.
+
+Don't miss out on the [full album](https://www.flickr.com/photos/81581328@N02/sets/72157645257588742/).
