@@ -35,7 +35,7 @@ Again on recommendation from Kate, we got lunch at *Ristorante da Ely* in Monter
 
 <iframe src="https://www.flickr.com/photos/81581328@N02/14308545640/in/set-72157645283442006/player/" width="427" height="640" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-On of the main attractions of Cinque Terre is the hiking between villages.
+One of the main attractions of Cinque Terre is the hiking between villages.
 Usually you can go between all five, but due to landslides, only one of the sections was open.
 This one section was still the highlight of the day.
 
