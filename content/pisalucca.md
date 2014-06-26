@@ -66,6 +66,7 @@ Our favorites were a combination of melon and pear and a combination of coconut 
 Surprisingly we are finding the fruit flavors to be much more desirable.
 
 Other flavors we have tried:
+
 1. Lemon
 2. Dark Chocolate
 3. Tiramasu
