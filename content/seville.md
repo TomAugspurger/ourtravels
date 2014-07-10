@@ -13,7 +13,7 @@ We ate the shrimp and oysters, but didn't try a couple other things whose identi
 
 The two big sights to see are the Seville Cathedral and the palace: Real Alcázar.
 
-<iframe src="https://www.flickr.com/photos/81581328@N02/14621071042/in/set-72157645203147538/player/" width="427" height="640" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe src="https://www.flickr.com/photos/81581328@N02/14621071042/in/set-72157645203147538/player/" width="403" height="640" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 For the most part this cathedral felt like a lot of the others we'd been too, and didn't seem worth the €16.00 we paid to get in.
 This one did have a few neat items though.
@@ -21,9 +21,9 @@ They had the tomb of Christopher Columbus and a fancy reliquary.
 Also, since the place was originally a mosque, there were some other rooms you wouldn't typically find in a catholic church.
 Finally, the bell tower was a converted minaret.
 
-<iframe src="https://www.flickr.com/photos/81581328@N02/14598590546/in/set-72157645203147538/player/" width="427" height="640" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe src="https://www.flickr.com/photos/81581328@N02/14598590546/in/set-72157645203147538/player/" width="640" height="537" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-<iframe src="https://www.flickr.com/photos/81581328@N02/14641531693/in/set-72157645203147538/player/" width="427" height="640" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe src="https://www.flickr.com/photos/81581328@N02/14641531693/in/set-72157645203147538/player/" width="640" height="427" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 <iframe src="https://www.flickr.com/photos/81581328@N02/14618390211/in/set-72157645203147538/player/" width="427" height="640" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
@@ -36,9 +36,9 @@ They also had the best gardens we've seen so far.
 
 <iframe src="https://www.flickr.com/photos/81581328@N02/14435003808/in/set-72157645203147538/player/" width="427" height="640" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-<iframe src="https://www.flickr.com/photos/81581328@N02/14641555363/in/set-72157645203147538/player/" width="427" height="640" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe src="https://www.flickr.com/photos/81581328@N02/14641555363/in/set-72157645203147538/player/" width="640" height="427" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-<iframe src="https://www.flickr.com/photos/81581328@N02/14435219517/in/set-72157645203147538/player/" width="427" height="640" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe src="https://www.flickr.com/photos/81581328@N02/14435219517/in/set-72157645203147538/player/" width="640" height="427" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 Since it was so hot out (34°C) we made the long, slow walk back to the train station early.
 [Here's](https://www.flickr.com/photos/81581328@N02/sets/72157645203147538/) the full album.
