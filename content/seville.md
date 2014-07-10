@@ -1,15 +1,15 @@
 Title: Seville
 Date: 2014-07-09
 
-Today we took the train down south to the Andulician capital, Seville.
-After a bit of a hassle trying to make train reservations.
-
 <iframe src="https://www.flickr.com/photos/81581328@N02/14619499934/in/set-72157645203147538/player/" width="427" height="640" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+Today we took the train down south to the Andulician capital, Seville.
+After a bit of a hassle at the station, we were able to make a reservation (every country needs to license their ticketing software from Germany or Switzerland).
 
 The old city center is about a 25 minute walk from the train station.
 We picked up lunch at a touristy place on the main road.
 It wasn't very good in comparison to Taste yesterday, but we got a chance to try a seafood paella.
-We ate the shrimp and oysters, but didn't try a couple other things whose identity we couldn't tell.
+We ate the shrimp and oysters, but didn't try a couple other things whose identity we couldn't quite place.
 
 The two big sights to see are the Seville Cathedral and the palace: Real Alcázar.
 
@@ -41,4 +41,4 @@ They also had the best gardens we've seen so far.
 <iframe src="https://www.flickr.com/photos/81581328@N02/14435219517/in/set-72157645203147538/player/" width="427" height="640" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 Since it was so hot out (34°C) we made the long, slow walk back to the train station early.
-
+[Here's](https://www.flickr.com/photos/81581328@N02/sets/72157645203147538/) the full album.
