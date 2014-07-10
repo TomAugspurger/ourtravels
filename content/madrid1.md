@@ -1,5 +1,5 @@
 Title: Madrid (Day 1)
-Date: 2014-07-09
+Date: 2014-07-08
 
 Today was our first full day in Madrid, the capital of Spain.
 We started off the day with a visit to the Royal Palace.
