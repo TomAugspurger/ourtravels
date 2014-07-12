@@ -7,8 +7,6 @@ After flying into Athens, we spent a short night in the port town of Piraeus. Fr
 
 <iframe src="https://www.flickr.com/photos/81581328@N02/14404669651/in/set-72157644733130690/player/" width="640" height="427" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-![Santorini from above](http://en.wikipedia.org/wiki/Santorini#mediaviewer/File:Santorini_Landsat.jpg)
-
 We are staying at the Pension George, a small bed and breakfast located in the village of Karterados.
 
 <iframe src="https://www.flickr.com/photos/81581328@N02/14221424828/in/set-72157644733130690/player/" width="640" height="427" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>

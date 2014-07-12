@@ -40,5 +40,5 @@ They also had the best gardens we've seen so far.
 
 <iframe src="https://www.flickr.com/photos/81581328@N02/14435219517/in/set-72157645203147538/player/" width="640" height="427" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-Since it was so hot out (34°C) we made the long, slow walk back to the train station early.
+Since it was so hot out (34 C) we made the long, slow walk back to the train station early.
 [Here's](https://www.flickr.com/photos/81581328@N02/sets/72157645203147538/) the full album.
