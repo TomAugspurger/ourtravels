@@ -1,5 +1,5 @@
 title: Santorini Day 1
-date: 2014-06-12 11:00
+date: 2014-06-12
 slug: santorini1
 tags: greece
 
