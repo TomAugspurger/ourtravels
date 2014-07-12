@@ -1,5 +1,5 @@
-Title: Lucerne
-Date: 2014-06-29
+title: Lucerne
+date: 2014-06-29
 
 Yesterday was mostly taken up with travel from Venice to Basel, Switzerland.
 On the walk from the train station we were caught in a thunderstorm (that happened in Rome too).

@@ -1,5 +1,5 @@
-Title: Pisa and Lucca
-Date: 2014-06-25
+title: Pisa and Lucca
+date: 2014-06-25
 
 After [Florence yesterday](florence.md), we made our way west to Pisa.
 Of course we had to check out the famous leaning tower.

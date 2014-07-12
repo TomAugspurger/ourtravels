@@ -1,6 +1,6 @@
-Title: Rome Day 1
-Date: 2014-06-19
-Slug: rome1
+title: Rome Day 1
+date: 2014-06-19
+slug: rome1
 
 Today was our first full day in Rome.
 It's a pretty cool city.

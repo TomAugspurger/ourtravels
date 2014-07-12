@@ -1,5 +1,5 @@
-Title: Barcelona (Day 2)
-Date: 2014-07-05
+title: Barcelona (Day 2)
+date: 2014-07-05
 
 For our second day in Barcelona we had two musts: Sagrada Familia and the Fat Tire Bike tour.
 

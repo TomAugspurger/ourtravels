@@ -1,5 +1,5 @@
-Title: Broc and Gruyere
-Date: 2014-06-30
+title: Broc and Gruyere
+date: 2014-06-30
 
 Today we took a trip to the Calliers chocolate factory in Broc.
 I'm nominating it for the chocolate factory with the best views outside its windows.

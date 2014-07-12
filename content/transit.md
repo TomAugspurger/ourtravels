@@ -1,5 +1,5 @@
-Title: In Transit
-Date: 2014-06-18
+title: In Transit
+date: 2014-06-18
 
 Sorry for the radio silence.
 The last few days have been full of travel from Greece to Italy (with no wi-fi).

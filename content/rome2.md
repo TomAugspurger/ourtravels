@@ -1,5 +1,5 @@
-Title: Rome Day 2
-Date: 2014-06-20
+title: Rome Day 2
+date: 2014-06-20
 
 I have to be honest, when the alarm went off this morning I was not ready to get up!  We caught the 6:30 train into Rome and we were at the Vatican by 7:30.  We started in St. Peter's Square and Basilica.
 

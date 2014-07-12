@@ -1,4 +1,4 @@
-Title: Athens
+title: Athens
 date: 2014-06-16 11:00
 slug: athens
 tags: greece

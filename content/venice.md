@@ -1,5 +1,5 @@
-Title: Venice
-Date: 2014-06-27
+title: Venice
+date: 2014-06-27
 
 We arrived to our luxurious bungalow Thursday afternoon.
 

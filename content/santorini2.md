@@ -1,4 +1,4 @@
-Title: Santorini Day 2
+title: Santorini Day 2
 date: 2014-06-13 11:00
 slug: santorini2
 tags: greece

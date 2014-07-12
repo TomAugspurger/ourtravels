@@ -1,5 +1,5 @@
-Title: Florence
-Date: 2014-06-24
+title: Florence
+date: 2014-06-24
 
 Today we visited the Renaissance city of Florence (or Firenze).
 We're definitely getting into the high season for tourism;

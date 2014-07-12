@@ -1,5 +1,5 @@
-Title: Cinque Terre
-Date: 2014-06-23
+title: Cinque Terre
+date: 2014-06-23
 
 Today we had a blast traveling through Cinque Terra.
 This UNESCO World Heritage Site is a set of 5 villages nestled into the west coast of Italy.

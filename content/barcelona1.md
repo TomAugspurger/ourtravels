@@ -1,5 +1,5 @@
-Title: Barcelona (Day 1)
-Date: 2014-07-04
+title: Barcelona (Day 1)
+date: 2014-07-04
 
 We've arrived in Spain!
 Our first four days will be in Barcelona;
