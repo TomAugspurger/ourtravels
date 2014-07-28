@@ -15,7 +15,7 @@ We did (another) free walking tour that started in Mariaplatz, a center square o
 <iframe src="https://www.flickr.com/photos/81581328@N02/14573726607/in/set-72157645563348360/player/" width="640" height="433" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 Our tour guide, Amanda, has been doing this for 4 years and was one of the best we've had.
-She took us around the city covering the founding of Munich, the various plagues to hit it, its role in the World Wars and the Nazi party, and its post-war history. And of course, the Haufbrau Haus
+She took us around the city covering the founding of Munich, the various plagues to hit it, its role in the World Wars and the Nazi party, and its post-war history. And of course, the Hofbrauhaus.
 
 <iframe src="https://www.flickr.com/photos/81581328@N02/14757008221/in/set-72157645563348360/player/" width="640" height="433" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
