@@ -54,3 +54,5 @@ Our lucky streak continued and we just caught the bus back to Füssen as it star
 
 After we got home to Augsburg we sat down for a nice dinner at a Thai place we'd seen the night before.
 The perfect end to the perfect day.
+
+The [full set of pictures](https://www.flickr.com/photos/81581328@N02/sets/72157645554931017/) has a lot more of the castles, the hiking trails, and the views of the area.
