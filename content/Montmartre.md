@@ -1,6 +1,5 @@
 title: Paris (Day 2)
 date: 2014-07-15
-status: draft
 
 Today we we planned on seeing the Catacombs, but we came too late and the line was already too long.
 

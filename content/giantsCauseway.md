@@ -1,5 +1,5 @@
 title: Giant's Causeway
-date:2014-08-10
+date: 2014-08-10
 
 We did something a bit different today: our first guided bus tour.
 The tour took us up north to Belfast and Giant's Causeway.
